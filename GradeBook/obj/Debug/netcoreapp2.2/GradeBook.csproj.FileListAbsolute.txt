@@ -1,0 +1,13 @@
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.AssemblyReference.cache
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\kryst\source\repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.genruntimeconfig.cache
